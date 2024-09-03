@@ -1,4 +1,4 @@
-# Проект:  [Веб-сайт путешествий]([https://example.com](https://alexanderkoldin.github.io/tour/))
+# Проект:  [Веб-сайт путешествий](https://alexanderkoldin.github.io/tour/)
 
 ## Описание
 
